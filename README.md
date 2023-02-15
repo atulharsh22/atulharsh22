@@ -20,9 +20,9 @@
 
 - 💬 Ask me about **Java, Spring, Hibernate, SQL**
 
-<!-- - 📫 How to reach me atulharsh22@gmail.com -->
+- 📫 How to reach me atulharsh22@gmail.com
 
-<!-- - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1dinOVVjudjovgnnKOD5hIyQQ-TZNwOzy/view?usp=sharing) -->
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1dinOVVjudjovgnnKOD5hIyQQ-TZNwOzy/view?usp=sharing)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
