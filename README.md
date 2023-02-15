@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **atulharsh22@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/drive/folders/1gvird-rTow157t6erT_iJ82d3Xv-giOH)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1dinOVVjudjovgnnKOD5hIyQQ-TZNwOzy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
