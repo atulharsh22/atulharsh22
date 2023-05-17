@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Core Java and Springboot**
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate, SQL,AWS at Masai School**
+- 🌱 I’m currently learning **Java, Spring, Hibernate, SQL,AWS**
 
 - 👯 Connect me on [Linkedin](https://www.linkedin.com/in/atul-harsh/)
 
